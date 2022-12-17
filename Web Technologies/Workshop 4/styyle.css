@@ -1,0 +1,62 @@
+p {
+    background-color: aqua;
+    font-size: small;
+    font-weight: lighter;
+    text-align:center;
+}
+table, th, td {
+    border:black;
+background-color: chocolate;
+font-size: medium;
+font-weight: bold;
+  }
+  h2{
+    font-size: larger;
+    background-color: dimgrey;
+    font-style: italic;
+    color: aliceblue;
+  }
+  body {
+    background-color: lightblue;
+  }
+  h1{
+    font-size: x-large;
+    background-color: blue;
+    font-style: oblique;
+    font-weight: bolder;
+  }
+  ol{
+    font-size: larger;
+    background-color: rgb(193, 43, 43);
+    font-style: italic;
+    color: rgb(35, 84, 127);
+  }
+  button{
+    font-size: x-large;
+    background-color: rgb(1, 1, 9);
+    font-style: oblique;
+    font-weight: bolder;
+    color: aquamarine;
+  }
+  footer{
+    font-size: x-large;
+    background-color: rgb(1, 1, 9);
+    font-style: oblique;
+    font-weight: bolder;
+    color: aquamarine;
+  }
+  nav{
+    font-size: x-large;
+    background-color: rgb(1, 1, 9);
+    font-style: oblique;
+    font-weight: bolder;
+    color: aquamarine;
+  }
+  form{
+        font-size: x-large;
+        background-color: rgb(1, 1, 9);
+        font-style: oblique;
+        font-weight: bolder;
+        color: aquamarine;
+      }
+  
